@@ -48,7 +48,7 @@ Superscript. Stack after the quality mark.
     2-⁹     minor ninth on 2
     1Δ⁷     major seventh on 1
 
-A bare superscript 7 is always a dominant seventh. A major seventh takes the delta, so `1⁷` and `1Δ⁷` are different chords and you don't need context to read either one. The delta sits on the baseline with the other quality marks.
+A bare superscript 7 is always a dominant seventh. A major seventh takes the delta, so `1⁷` and `1Δ⁷` are different chords and you don't need context to read either one. The delta sits on the baseline with the other quality marks; the seventh is superscripted as usual.
 
 ### Accidentals
 
@@ -90,7 +90,7 @@ Nothing else in the system uses a slash, so there's no collision with the other 
 
 ## Modulation
 
-A new key is declared by the new 1 chord followed by a colon. Everything after it reads against the new parent scale until the next declaration.
+A new key is declared by its number, read from the home key, followed by a colon.
 
 Bold the declaration so it's findable on a fast read.
 
@@ -138,8 +138,6 @@ One key signature covers the vamp either way. The second is the more common shap
 The first is the more ambiguous sound. Two minor sevenths a fourth apart don't commit to a mode until the melody supplies a natural or flatted third above the 5 chord.
 
 ### Blues
-
-Blues in G, one flat.
 
     1⁷  4⁷  5⁷
 
