@@ -160,9 +160,12 @@ The borrowed-minor color. The ♭6 is the whole payload.
 
 Minor-key tune
 
-An Aeolian tune sits on 6-. Two different dominant-quality chords show up in minor tunes, and the number tells you which one you have.
-    6-  4  5⁷  6-       diatonic — the 5 of the parent scale
-    6-  2-  3⁷  6-      harmonic minor — the raised seventh
+An Aeolian tune sits on 6-. Two different dominant-quality chords show up in minor tunes, and the number tells you which one you have.        
+
+```
+6-  4  5⁷  6-       diatonic — the 5 of the parent scale
+6-  2-  3⁷  6-      harmonic minor — the raised seventh
+```
 
 Both carry a bare superscript 7, so both are dominant quality. They are not the same chord. 5⁷ is diatonic to the parent and does not cadence to 6-; it pulls toward 1 or steps down to ♭7. 3⁷ is the chord that resolves to 6-, and it is non-diatonic — the raised seventh of the minor scale lives inside it, which is what makes it dominant instead of minor.
 
