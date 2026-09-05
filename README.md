@@ -156,8 +156,6 @@ The borrowed-minor color. The ♭6 is the whole payload.
 
 ### Minor-key tune
 
-Minor-key tune
-
 An Aeolian tune sits on 6-. Two different dominant-quality chords show up in minor tunes, and the number tells you which one you have.        
 
 ```
