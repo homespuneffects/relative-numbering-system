@@ -108,7 +108,7 @@ Every declaration reads against the home key, not against whichever key the char
 
     1:   ♭7:   1:
 
-bolded in a chart as **1:**  **♭7:**  **1:**  Not `1: ♭7: 2:`. Chaining each declaration to the one before it hides the return. `2:` doesn't say you're home, and a reader would have to work out ♭7 of E♭, then 2 of D♭, and notice they're the same pitch. Anchoring to the home key makes the return visible as itself.
+bolded in a chart as **1:**  **♭7:**  **1:**  and not `1: ♭7: 2:`. Chaining each declaration to the one before it hides the return. `2:` doesn't say you're home, and a reader would have to work out ♭7 of E♭, then 2 of D♭, and notice they're the same pitch. Anchoring to the home key makes the return visible as itself.
 
 Chained declarations also accumulate error. Each one depends on correctly parsing all the ones before it, so a single misread propagates to the end of the chart. Anchored declarations are independent, and a misread stays local.
 
