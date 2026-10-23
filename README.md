@@ -84,6 +84,16 @@ An inversion or a chord over a foreign bass takes a slash. Chord on the left, ba
 
 Extensions belong to the chord and stay left of the slash. The bass note takes an accidental when it falls outside the parent scale, the same as a root does.
 
+### Slash chord as a target
+
+When a parenthetical resolves to a slash chord, the slash belongs to the target, never to the parenthetical.
+
+    (4Δ⁷)4/5     4Δ⁷ of 4, resolving to 4/5
+
+In E♭, that's D♭Δ⁷ to A♭/B♭. The parentheses read against the target's chord, the 4, not its bass. The 5 is the target's bass note and reads against the parent scale like any other.
+
+Read the other way, `(4Δ⁷)4/5` would put the borrowed chord over a 5 in the bass, D♭Δ⁷/B♭, which is a different chord. The rule removes that reading.
+
 Nothing else in the system uses a slash, so there's no collision with the other marks.
 
 ---
