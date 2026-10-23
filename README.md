@@ -63,14 +63,14 @@ Real symbols: `♭` and `♯`, not `b` and `#`. They attach to the number, raisi
 
 Chords borrowed from a target's key go in parentheses. The target follows the closing parenthesis. Everything inside the parentheses reads relative to the target, not to the parent scale.
 
-    (2- 5)4        major two-five of 4
-    (2ø⁷ 5)♭6-     minor two-five of ♭6-
-    (2- 5)6-       major two-five of 6-
+    (2- 5⁷)4       major two-five of 4
+    (2ø⁷ 5⁷)♭6-    minor two-five of ♭6-
+    (2- 5⁷)6-      major two-five of 6-
     (♭2⁷)4         tritone substitution resolving to 4
 
 Parentheses are the general mark for target-relative material, not a two-five mark. A single chord takes them too, like the tritone sub above.
 
-The chords inside the parentheses don't have to agree with the target's mode. `(2- 5)6-` and `(2ø⁷ 5)6-` land on the same chord. The first approaches it with a major two-five, the second with a minor two-five. The notation records what was played.
+The chords inside the parentheses don't have to agree with the target's mode. `(2- 5⁷)6-` and `(2ø⁷ 5⁷)6-` land on the same chord. The first approaches it with a major two-five, the second with a minor two-five. The notation records what was played.
 
 ---
 
@@ -214,7 +214,7 @@ Written against the target:
 
     (♭7⁷  6⁷  ♭6⁷  5⁷)2⁹
 
-One set of parentheses covers the whole chain. Everything inside reads against the target, the same as `(2- 5)4`, so nothing has to nest.
+One set of parentheses covers the whole chain. Everything inside reads against the target, the same as `(2- 5⁷)4`, so nothing has to nest.
 
 Nested, the same bar is:
 
