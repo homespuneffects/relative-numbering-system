@@ -202,6 +202,28 @@ The parentheses read against the target, so ♭2 is a half step above 5 rather t
 
 The distinction the labels preserve is a voice-leading one. An augmented sixth expands outward to an octave, a minor seventh contracts inward. That matters for a written part, where the spelling instructs the player. It doesn't matter on a chart, which is telling someone what to play.
 
+### Chromatic dominant chain
+
+From *9:20 Special*, in B♭:
+
+    | B♭7  A7  A♭7  G7 | C9 |
+
+Four dominants slide down by half steps into C9. Each of the first three resolves down a half step to the next, the way a tritone sub does. G7 is a plain 5 of C.
+
+Written against the target:
+
+    (♭7⁷  6⁷  ♭6⁷  5⁷)2⁹
+
+One set of parentheses covers the whole chain. Everything inside reads against the target, the same as `(2- 5)4`, so nothing has to nest.
+
+Nested, the same bar is:
+
+    ((((♭2⁷)♭2⁷)♭2⁷)5⁷)2⁹
+
+That spells out each chord's pull on the next, but the flat version already shows it. A dominant a half step above the chord that follows is acting as that chord's ♭2⁷, and `♭7⁷ 6⁷ ♭6⁷ 5⁷` shows the half-step slide on sight.
+
+A chain of approaches to one target takes one parenthetical.
+
 ---
 
 ## Trade-offs
